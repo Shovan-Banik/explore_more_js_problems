@@ -23,4 +23,4 @@ else{
 
 }
 }
-console.log(totalPrice_afterDiscount(230));
+console.log(totalPrice_afterDiscount(150));
